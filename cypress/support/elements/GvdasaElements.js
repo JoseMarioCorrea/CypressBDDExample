@@ -15,6 +15,7 @@ class GvdasaElements {
 
     cidade = () => { return '#wpcf7-f13434-p67-o1 > form > table > tbody > tr:nth-child(4) > td > label > span > input'}
 
+    
   }
   
   
